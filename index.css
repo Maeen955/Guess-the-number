@@ -39,13 +39,17 @@ button {
 }
 
 @media (max-width: 768px) {
+    body{
+        font-size: 16px;
+    }
     .container {
         width: 90%; /* Adjust width for smaller screens */
-        height:100vh;
+        height:80%;
         font-size:1em;
         
     }
     h1{
-        margin-top:50;
+        margin-top:50%;
+        
     
 }
